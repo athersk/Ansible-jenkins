@@ -1,2 +1,2 @@
 [webservers]
-10.51.96.67
+apache-server ansible_user=ansiuser
